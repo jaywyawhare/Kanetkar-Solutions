@@ -1,0 +1,278 @@
+{
+    "Chapter 01": [
+        {
+            "Question Number": "Question 1",
+            "Question": "// Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature into Centigrade degrees.",
+            "Folder": "./Chapter-01",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// The length and breadth of a rectangle and radius of a circle are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle, and the area and circumference of the circle.",
+            "Folder": "./Chapter-01",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "// Paper of size A0 has dimensions 1189 mm x 841 mm. Each subsequent size A(n) is defined as A(n-1) cut in half, parallel to its shorter sides. Thus, paper of size A1 would have dimensions 841 mm x 594 mm. Write a program to calculate and print paper sizes A0, A1, A2, \u2026 A8.",
+            "Folder": "./Chapter-01",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 02": [
+        {
+            "Question Number": "Question 5",
+            "Question": "// Angle is is taken as input from keyboard. Write a program to calculate the trigonometric ratios (sin, cos, tan, cosec, sec, cot) of the angle.",
+            "Folder": "./Chapter-02",
+            "File": "q5.c"
+        },
+        {
+            "Question Number": "Question 6",
+            "Question": "// Two numbers are input through the keyboard into two locations C and D. Write a program to interchange the contents of C and D.",
+            "Folder": "./Chapter-02",
+            "File": "q6.c"
+        },
+        {
+            "Question Number": "Question 1",
+            "Question": "// If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits.",
+            "Folder": "./Chapter-02",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 4",
+            "Question": "// Wind-chill factor is the felt air temperature on exposed skin due to wind. The wind chill temperature is always lower than the air temperature, and is calculated as per the following formula: // wcf = 35.74 + 0.6215t + (0.4275t - 35.75) * v^0.16 // where t is the temperature and v is the wind velocity. Write a program to receive values of temperature and wind velocity and calculate the wind-chill factor.",
+            "Folder": "./Chapter-02",
+            "File": "q4.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// Write a program to recieve a Caresian co-ordinate (x, y) of a point and convert them into polar co-ordinates (r, \u03b8). // Hint : r = sqrt(x^2 + y^2) and \u03b8 = tan^-1(y/x)",
+            "Folder": "./Chapter-02",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "// Write a program to recieve values of latitude (L1, L2) and longitude (G1, G2) in degrees of two places on the earth and output the distance between them in nautical miles. The formula for distance in nautical miles is: // Distance = 3963 * arccos(sin(L1) * sin(L2) + cos(L1) * cos(L2) * cos(G2 - G1))",
+            "Folder": "./Chapter-02",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 03": [
+        {
+            "Question Number": "Question 7",
+            "Question": "// Given the coordinates (x, y) of center of a circle and its radius, writ a program that will determine whether a point lies inside the circle on the circle or outside the circle. (Hint: Use sqrt() and pow()  functions)",
+            "Folder": "./Chapter-03",
+            "File": "q7.c"
+        },
+        {
+            "Question Number": "Question 5",
+            "Question": "// Given the length and breadth of a rectangle, write a program to find whether the area of the rectangle is greater than its perimeter. For example, the area of the rectangle with length = 5 and breadth = 4 is greater than its perimeter.",
+            "Folder": "./Chapter-03",
+            "File": "q5.c"
+        },
+        {
+            "Question Number": "Question 6",
+            "Question": "// Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if the three points fall on one straight line.",
+            "Folder": "./Chapter-03",
+            "File": "q6.c"
+        },
+        {
+            "Question Number": "Question 1",
+            "Question": "// A five-digit number is entered through the keyboard. Write a program to obtain the reversed number and to determine whether the original and reversed numbers are equal or not.",
+            "Folder": "./Chapter-03",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 4",
+            "Question": "// Write a program to find the absolute value of a number entered through the keyboard.",
+            "Folder": "./Chapter-03",
+            "File": "q4.c"
+        },
+        {
+            "Question Number": "Question 8",
+            "Question": "// Given a point (x, y), write a program to find out if it lies on X-axis, Y-axis or origin.",
+            "Folder": "./Chapter-03",
+            "File": "q8.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// If ages of Ram, Shyam and Ajay are input through the keyboard, write a program to determine the youngest of the three.",
+            "Folder": "./Chapter-03",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 9",
+            "Question": "// According to Gregorian calendar, it was Monday on the date 01/01/01. If any year is input through the keyboard write a program to find out what is the day on 1st January of this year.",
+            "Folder": "./Chapter-03",
+            "File": "q9.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "// Write a program to check whether a triangle is valid or not, if three angles of the triangle are entered through the keyboard. A triangle is valid if the sum of all the three angles is equal to 180 degrees.",
+            "Folder": "./Chapter-03",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 04": [
+        {
+            "Question Number": "Question 1",
+            "Question": "// If the lengths of three sides of a triangle are input through the keyboard, write a program to check whether the triangle is isosceles, equilateral, scalene or right angled triangle.",
+            "Folder": "./Chapter-04",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 4",
+            "Question": "/* The Body Mass Index (BMI) is defined as ratio of the weight of a person (in kilograms) to the square of the height (in meters). Write a program that receives weight and height, calculates the BMI, and reports the BMI category as per the following table:  BMI Category                BMI Starvation                   < 15 Anorexic                     15.1 to 17.5 Underweight                  17.6 to 18.5 Ideal                        18.6 to 24.9 Overweight                   25 to 25.9 Obese                        30 to 30.9 Morbidly Obese                >= 40 */",
+            "Folder": "./Chapter-04",
+            "File": "q4.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "/* In digital world colors are specified in Red-Green-Blue (RGB) format, with values of R, G, B varying on an integer scale from 0 to 255. In print publishing the colors are mentioned in Cyan-Magenta-Yellow-Black (CMYK) format, with values of C, M, Y, K varying on a real scale from 0.0 to 1.0. Write a program that helps a user to convert RGB color values to CMYK color as per the following formulas:  - White = max(Red/255, Green/255, Blue/255) - Cyan = (White - Red/255) / White - Magenta = (White - Green/255) / White - Yellow = (White - Blue/255) / White - Black = 1 - White  Note that if the RGB values are all 0, then the CMY values are all 0 and K is 1.0. */",
+            "Folder": "./Chapter-04",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "/* A cetain grade of steel is graded according to the following conditions:  1. Hardness must be greater than 50 2. Carbon content must be less than 0.7 3. Tensile strength must be greater than 5600  The grades are as follows:  - Grade is 10 if all three conditions are met - Grade is 9 if conditions 1 and 2 are met - Grade is 8 if conditions 2 and 3 are met - Grade is 7 if conditions 1 and 3 are met - Grade is 6 if only one condition is met - Grade is 5 if none of the conditions are met  Write a program, which will require the user to give values of hardness, carbon content and tensile strength of the steel under consideration and output the grade of the steel. */",
+            "Folder": "./Chapter-04",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 05": [
+        {
+            "Question Number": "Question 5",
+            "Question": "// Write a program to receive an integer and find its octal equivalent. (Hint: To obtain octal equivalent of an integer, divide it continuously by 8 till dividend doesn't become zero, then write the remainders obtained in reverse direction.)",
+            "Folder": "./Chapter-05",
+            "File": "q5.c"
+        },
+        {
+            "Question Number": "Question 6",
+            "Question": "// Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.",
+            "Folder": "./Chapter-05",
+            "File": "q6.c"
+        },
+        {
+            "Question Number": "Question 1",
+            "Question": "// Write a program to print all the ASCII values and their equivalent characters using a while loop. The ASCII values vary from 0 to 255.",
+            "Folder": "./Chapter-05",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 4",
+            "Question": "// Write a program to enter numbers till the user wants. At the end it should display the count of positive, negative and zeros entered.",
+            "Folder": "./Chapter-05",
+            "File": "q4.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 ).",
+            "Folder": "./Chapter-05",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "/* Write a program for a matchstick game being played between the computer and a user. Your program should ensure that the computer always wins. Rules for the game are as follows: - There are 21 matchsticks. - The computer asks the player to pick 1, 2, 3, or 4 matchsticks. - After the person picks, the computer does its picking. - Whoever is forced to pick up the last matchstick loses the game. */",
+            "Folder": "./Chapter-05",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 06": [
+        {
+            "Question Number": "Question 7",
+            "Question": "// Ramanujan Number (1729) is the smallest number that can be expressed as the sum of two cubes in two different ways - 1729 can be expressed as 1^3 + 12^3 or 9^3 + 10^3. Write a program to find all such numbers up to a reasonable limit n.",
+            "Folder": "./Chapter-06",
+            "File": "q7.c"
+        },
+        {
+            "Question Number": "Question 5",
+            "Question": "// Write a program to generate all Pythagorean triplets with side length less than or equal to 30.",
+            "Folder": "./Chapter-06",
+            "File": "q5.c"
+        },
+        {
+            "Question Number": "Question 6",
+            "Question": "// Population of a town today is 100000. The population has increased steadily at the rate of 10% per year for the last 10 years. Write a program to determine the population at the end of each year in the last decade.",
+            "Folder": "./Chapter-06",
+            "File": "q6.c"
+        },
+        {
+            "Question Number": "Question 1",
+            "Question": "/* Write a program to print the multiplication table of the number entered by the user. The table should get displayed in the following form: 29 * 1 = 29 29 * 2 = 58 */",
+            "Folder": "./Chapter-06",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 4",
+            "Question": "/* The natural logarithm can be approximated by the following series:   If x is input through the keyboard, write a program to calculate the sum of the first seven terms of this series. */",
+            "Folder": "./Chapter-06",
+            "File": "q4.c"
+        },
+        {
+            "Question Number": "Question 8",
+            "Question": "// Write a program to print 24 hours of a day with suitable suffixes like AM, PM, Noon, Midnight.",
+            "Folder": "./Chapter-06",
+            "File": "q8.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "/* According to a study, the approximate level of intelligence of a person can be calculated using the following formula:  i = 2 + (y + 0.5x)  Write a program that will produce a table of values of i, y, and x where y varies from 1 to 6, and, for each value of y, x varies from 5.5 to 12.5 in steps of 0.5. */",
+            "Folder": "./Chapter-06",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 9",
+            "Question": "/* Write a program to print the following pattern: 1 2       3 4       5       6 7       8       9       10  */",
+            "Folder": "./Chapter-06",
+            "File": "q9.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "/* When interest compounds q times per year at an annual rate of r % for n years, the principal p compounds to an amount a as per the following formula:  A = p * (1 + r/q)^(n*q)  Write a program to read 10 sets of p, r, n, and q, and calculate the corresponding a. */",
+            "Folder": "./Chapter-06",
+            "File": "q3.c"
+        }
+    ],
+    "Chapter 07": [
+        {
+            "Question Number": "Question 1",
+            "Question": "/* Write a program to find the grace marks for a student using switch. The user should enter the class obtained by the student and the number of subjects he has failed in. Use the following logic: - If the student gets first class and he fails in more than 3 subjects, he does not get any grace. Otherwise, he gets a grace of 5 marks per subject. - If the student gets second class and he fails in more than 2 subjects, he does not get any grace. Otherwise, he gets a grace of 4 marks per subject. - If the student gets third class and he fails in more than 1 subject, then he does not get any grace. Otherwise, he gets a grace of 5 marks. */",
+            "Folder": "./Chapter-07",
+            "File": "q1.c"
+        }
+    ],
+    "Chapter 08": [
+        {
+            "Question Number": "Question 1",
+            "Question": "// Any year is entered through the keyboard. Write a function to determine whether the year is a leap year or not.",
+            "Folder": "./Chapter-08",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// A positive integer is entered through the keyboard. Write a function to obtain the prime factors of this number.",
+            "Folder": "./Chapter-08",
+            "File": "q2.c"
+        }
+    ],
+    "Chapter 09": [
+        {
+            "Question Number": "Question 1",
+            "Question": "// Given three variables x, y, z, write a function to circularly shift their values to right. In other words, if x = 5, y = 8, z = 10, after circular shift y = 5, z = 8, x =10. Call the function with variables a, b, c to circularly shift values.",
+            "Folder": "./Chapter-09",
+            "File": "q1.c"
+        },
+        {
+            "Question Number": "Question 2",
+            "Question": "// Define a function that receives weight of a commodity in Kilograms and returns the equivalent weight in Grams, Tons and Pounds. Call this function from main( ) and print the results in main( ).",
+            "Folder": "./Chapter-09",
+            "File": "q2.c"
+        },
+        {
+            "Question Number": "Question 3",
+            "Question": "// Define a function to compute the distance between two points and use it to develop another function that will compute the area of the triangle whose vertices are A(x1, y1), B(x2, y2), and C(x3, y3). Use these functions to develop a function which returns a value 1 if the point (x, y) lines inside the triangle ABC, otherwise returns a value 0. Would you get any advantage if you develop these functions to work on call be reference principle?",
+            "Folder": "./Chapter-09",
+            "File": "q3.c"
+        }
+    ]
+}
